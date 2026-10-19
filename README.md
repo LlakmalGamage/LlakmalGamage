@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @LlakmalGamage
-- 👀 I’m interested in ML/DL/DataScience
+- 👋 Hi, I’m Lanka Gamage
+- 👀 Data Engineer
 - 📫 How to reach me llakmalgamage@gmail.com
 - ⚡ Linkedin: [Linkedin](https://www.linkedin.com/in/lanka-lakmalsg/)
 
